@@ -8,4 +8,4 @@ For the BERT model, we used used the bert-large-uncased-whole-word-masking-finet
 The training COLAB: https://colab.research.google.com/drive/1DmIMb5vIHpQJykyfIJCEttlbcknc0cI9#scrollTo=dVwgtkdyixay
 The Kaggle submission: https://www.kaggle.com/code/radustefanmihalache/notebooke214f5a1ae/edit/run/159097170
 
-On the Kaggle submission, we obtained 0.7041 score which puts us in the 4th place out of
+On the Kaggle submission, we obtained 0.7041 score which puts us in the 4th place out of 1000+ participants
