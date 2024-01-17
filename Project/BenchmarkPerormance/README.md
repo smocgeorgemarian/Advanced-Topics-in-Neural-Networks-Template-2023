@@ -9,4 +9,5 @@ We used a large uncased configuration of BERT that outputs an embedding of 1024.
 
 We implemented the notebook that trains without any pretrained data on kaggle, however, due to time constraints, the script was not able to run fully:
 
-(The link will be posted by George Smoc shortly)
+Kaggle trainig script without pretrained data: https://www.kaggle.com/code/smocgeorge/trainnotebook?scriptVersionId=159323956
+Base training script on google colab: https://colab.research.google.com/drive/1DmIMb5vIHpQJykyfIJCEttlbcknc0cI9#scrollTo=dVwgtkdyixay
